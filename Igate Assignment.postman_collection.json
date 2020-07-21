@@ -1,0 +1,46 @@
+{
+	"id": "facb57c5-b0f7-efa8-87a3-64f1aee1b0bf",
+	"name": "Igate Assignment",
+	"description": "",
+	"order": [
+		"827b7942-b429-a220-3623-b0718d00adc2"
+	],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1595308964833,
+	"owner": 0,
+	"public": false,
+	"requests": [
+		{
+			"id": "827b7942-b429-a220-3623-b0718d00adc2",
+			"headers": "Content-Type: application/json\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "http://localhost:3000",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": null,
+			"method": "POST",
+			"collectionId": "facb57c5-b0f7-efa8-87a3-64f1aee1b0bf",
+			"data": [],
+			"dataMode": "raw",
+			"name": "http://localhost:3000",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1595309106306,
+			"version": 2,
+			"responses": [],
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"rawModeData": "[\r\n    {\r\n        \"description\": \"TOM\",\r\n        \"boundaries\": [\r\n            {\r\n                \"x\": 173,\r\n                \"y\": 22\r\n            },\r\n            {\r\n                \"x\": 206,\r\n                \"y\": 22\r\n            },\r\n            {\r\n                \"x\": 206,\r\n                \"y\": 43\r\n            },\r\n            {\r\n                \"x\": 173,\r\n                \"y\": 43\r\n            }\r\n        ]\r\n    },\r\n    {\r\n        \"description\": \"GREEN\",\r\n        \"boundaries\": [\r\n            {\r\n                \"x\": 218,\r\n                \"y\": 22\r\n            },\r\n            {\r\n                \"x\": 283,\r\n                \"y\": 22\r\n            },\r\n            {\r\n                \"x\": 283,\r\n                \"y\": 43\r\n            },\r\n            {\r\n                \"x\": 218,\r\n                \"y\": 43\r\n            }\r\n        ]\r\n    }\r\n]"
+		}
+	]
+}
